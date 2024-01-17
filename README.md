@@ -1,2 +1,2 @@
 # aws_restart
-Python programs repository directory
+Repository of learning files in Python
